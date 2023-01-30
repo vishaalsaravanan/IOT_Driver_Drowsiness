@@ -1,0 +1,11 @@
+1. conda create --name Drowsiness
+
+2.conda activate Drowsiness
+
+3.pip install dash==1.13.3
+
+4. pip install pyrebase
+
+5. pip install firebase_admin
+
+6. pip install colorama
